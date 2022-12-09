@@ -1,5 +1,5 @@
 # cs-303-assignment-3
-1. For question 3 and 4, click the raw file, which will open up a power point which will have the trees to for the questions
+1. For question 3 and 4, click view raw, which will open up a power point that will have the trees for the questions
 2. To run the code visual studio needs to be installed
 3. After installing the compiler, transfer over the files from github to visual studio
 4. Then either pressing f5 or pressing Local Windows Debugger, the program will run.
